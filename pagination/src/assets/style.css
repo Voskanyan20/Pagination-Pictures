@@ -1,0 +1,19 @@
+.images_div{
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    margin: 50px auto;
+
+}
+.images_divs{
+    width: 23%;
+    height: 200px;
+    box-shadow: 0 0 3px 4px;
+    text-align: center;
+    padding: 10px 0 0 0;
+}
+.images{
+    height: 60%;
+    width: 48%;
+    margin-bottom: 15px;
+}
